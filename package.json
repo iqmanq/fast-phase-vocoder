@@ -1,0 +1,23 @@
+{
+  "name": "fast-phase-vocoder",
+  "version": "1.0.1",
+  "description": "A pure JavaScript, zero-dependency, transient-preserving phase vocoder for high-quality audio time stretching.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests configured\""
+  },
+  "keywords": [
+    "audio",
+    "time-stretch",
+    "phase-vocoder",
+    "pure-js",
+    "zero-dependency"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iqmanq/fast-phase-vocoder.git"
+  }
+}
